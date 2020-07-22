@@ -6,4 +6,4 @@ version of the repository exists on the client-side, the server maintains the ve
 history. 
 
 WTF supports the following commands: configure, checkout, update, upgrade, commit, push, create, destroy, add, remove, current version, histroy and 
-rollback.  
+rollback. Check out readme.pdf to understand the functionality more in-depth. 
