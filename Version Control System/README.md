@@ -1,4 +1,4 @@
-# Version Control System
+# Where's The File?
 
 Where's The File (WTF) is a fully functional client-server version control system written in C. Through sockets, file I/O, and multithreading, it 
 allows up to ten clients to interact with, push projects to, get projects from and otherwise modify a repository in a remote server. While a local 
