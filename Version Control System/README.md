@@ -5,5 +5,5 @@ allows up to ten clients to interact with, push projects to, get projects from a
 version of the repository exists on the client-side, the server maintains the version most recently pushed while keeping track of the project's 
 history. 
 
-WTF supports the following commands: configure, checkout, update, upgrade, commit, push, create, destroy, add, remove, current version, histroy and 
+WTF supports the following commands: configure, checkout, update, upgrade, commit, push, create, destroy, add, remove, current version, history and 
 rollback. Check out readme.pdf to understand the functionality more in-depth. 
